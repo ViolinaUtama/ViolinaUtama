@@ -38,4 +38,4 @@
 
 ---
 
-> *“Learning to write programs stretches your mind and helps you think better.”* – Bill Gates  
+> *“Learning to write programs stretches your mind and helps you think better.”* – <b>Bill Gates</b>  
