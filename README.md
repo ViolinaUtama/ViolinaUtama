@@ -13,9 +13,9 @@
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=FFFFF0" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=FFFFF0" />
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=FFFFF0" />
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=FFFFF0" />
+  <img src="https://img.shields.io/badge/C-green?style=for-the-badge&logo=c&logoColor=FFFFF0" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=FFFFF0" />
   <img src="https://img.shields.io/badge/Learning%20More-FFA500?style=for-the-badge" />
 </p>
 
@@ -32,7 +32,7 @@
 ### 📫 Let's Connect!
 <p>
   <a href="https://www.linkedin.com/in/violinautama" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ViolinaUtama-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-ViolinaUtama-purple?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
