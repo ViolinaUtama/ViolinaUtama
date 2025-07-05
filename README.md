@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Violina Utama</h1>
+<p align="center">🌸 Passionate learner • 💻 Future Developer • 🎯 Always curious</p>
 
-<!--
-**ViolinaUtama/ViolinaUtama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🔭 Currently learning and exploring the world of code  
+- 💡 Interested in solving problems with logic and creativity  
+- 🌱 Learning: **HTML**, **C**, **C++**, and more to come!  
+- 🚀 Dreaming of building meaningful tech projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning%20More-FFA500?style=for-the-badge" />
+</p>
+
+---
+
+### 🔥 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=violinautama&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violinautama&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p>
+  <a href="https://www.linkedin.com/in/violinautama" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ViolinaUtama-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+> *“Learning to write programs stretches your mind and helps you think better.”* – Bill Gates  
